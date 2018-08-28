@@ -1,1 +1,3 @@
-Learn to use GitChange Text
+Learn to use GitChange TextLearn to use Git
+Change Text
+the new branch
